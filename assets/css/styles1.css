@@ -196,7 +196,7 @@ img {
     width: 600px;
 }
 .home__blob{
-    fill:var(--first-color);
+    fill:burlywood;
 }
 
 .home__blob-img{
